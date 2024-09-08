@@ -1,6 +1,6 @@
 ## Doc Scan
 
-Add `.env` file and update API_KEY
+Add `.env` file and update key
 `PINECONE_API_KEY=YOUR_API_KEY`
 
 Run the development server:
